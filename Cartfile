@@ -1,0 +1,4 @@
+github "ReactiveX/RxSwift"
+github "onevcat/Kingfisher"
+github "SwiftyJSON/SwiftyJSON"
+github "Alamofire/Alamofire"
