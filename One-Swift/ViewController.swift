@@ -7,10 +7,7 @@
 //
 
 import UIKit
-import Alamofire
 import RxSwift
-import SwiftyJSON
-
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
